@@ -6,15 +6,18 @@
 <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/logo-1.png" alt="Logo" width="200" height="200">
 
 <br>
-
+<h1>
+    FCMinerProxy
+</h1>
+<h3>    
+    Telegram：<a href="https://t.me/+VK7ZOlKvcLljYjQ1">https://t.me/+VK7ZOlKvcLljYjQ1</a>
+</h3>
+    
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-<h3>
-    Telegram：<a href="https://t.me/+VK7ZOlKvcLljYjQ1">https://t.me/+VK7ZOlKvcLljYjQ1</a>
-</h3>
 
 </div>
 <!-- <h1></h1> -->
