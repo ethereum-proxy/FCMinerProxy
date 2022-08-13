@@ -119,7 +119,7 @@ clearlog() {
 
 stop() {
     colorEcho $BLUE "终止 FCMinerProxy 进程"
-    killall ktproxy
+    killall fcproxy
     sleep 1
 }
 
@@ -205,7 +205,7 @@ installapp() {
         VERSION="$1"
     fi
     
-    colorEcho ${GREEN} "开始安装KCPROXY-V-${VERSION}"
+    colorEcho ${GREEN} "开始安装FCPROXY-V-${VERSION}"
 
     if [[ `command -v yum` ]];then
         colorEcho ${BLUE} "关闭防火墙"
