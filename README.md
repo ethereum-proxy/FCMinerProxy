@@ -187,9 +187,10 @@ bash <(curl -s -L https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/
 ### 已支持抽水的币种（如需增加新币种, 请在电报内联系管理员, 通常一天之内就可以完成）
 
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/bitcoin.png" alt="Logo" width="17" height="17"> BTC
-- <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/etc.png" alt="Logo" width="17" height="17"> ETC
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/eth.png" alt="Logo" width="17" height="17"> ETH
+- <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/etc.png" alt="Logo" width="17" height="17"> ETC
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/ltc.png" alt="Logo" width="17" height="17"> LTC
+- <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/kaspa.png" alt="Logo" width="17" height="17"> KASPA
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/erg.png" alt="Logo" width="17" height="17"> ERG
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/cfx.png" alt="Logo" width="17" height="17"> CFX
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/rvn.png" alt="Logo" width="17" height="17"> RVN
@@ -198,7 +199,6 @@ bash <(curl -s -L https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/ckb.png" alt="Logo" width="17" height="17"> CKB
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/Beam.png" alt="Logo" width="17" height="17"> BEAM
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/alph.png" alt="Logo" width="17" height="17"> ALPH
-- <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/kaspa.png" alt="Logo" width="17" height="17"> KASPA
 - ...
 
 <span id="uplog"></span>
