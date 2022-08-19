@@ -24,11 +24,11 @@ FCMinerproxy版本>=2.1.0
 
 ## 使用说明
 
-### 1.远程FCminerproxy先配置一个KENC协议的端口
+### 1.远程FCMinerproxy先配置一个KENC协议的端口
 
-<img src="./../image/t14.png" alt="Logo" width="300">
+<img src="./../image/t14.png" alt="Logo">
 
-### 2.在KT的设置页面找到KENC配置推送, 如下图
+### 2.在FC的设置页面找到KENC配置推送, 如下图
 <img src="./../image/kenc.png" alt="Logo">
 
 ### 3. KENC客户端首次打开, 或点击右上角设置, 即可更改配置推送地址, 配置设置完毕后重启KENC客户端即可拉取最新配置。
