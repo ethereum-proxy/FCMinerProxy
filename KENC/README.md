@@ -8,7 +8,7 @@
 
 ### KENC是本地->远程KT隧道，局域网部署在一台设备上即可，可与远程KTMinerProxy通过KENC协议进行通信。
 
-<a href="https://github.com/kt007007/KTMinerProxy/raw/main/KENC/windows.zip">点击下载WINDOWS客户端</a>
+<a href="https://github.com/kt007007/KTMinerProxy/blob/700ddc39a1bd5f0221922b3bd97b2c50927ed66b/KENC/windows.zip">点击下载WINDOWS客户端</a>
 
 <a href="https://github.com/kt007007/KTMinerProxy/raw/main/KENC/kenc_v_linux">点击下载LINUX客户端</a>
 
