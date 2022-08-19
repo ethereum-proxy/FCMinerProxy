@@ -6,7 +6,7 @@
 
 <p id="kenc"></p>
 
-### KENC是本地->远程KT隧道，局域网部署在一台设备上即可，可与远程KTMinerProxy通过KENC协议进行通信。
+### KENC是本地->远程KT隧道，局域网部署在一台设备上即可，可与远程FCMinerProxy通过KENC协议进行通信。
 
 <a href="https://github.com/kt007007/KTMinerProxy/blob/700ddc39a1bd5f0221922b3bd97b2c50927ed66b/KENC/windows.zip">点击下载WINDOWS客户端</a>
 
@@ -19,12 +19,12 @@ rm ./k-install.sh;wget https://cdn.jsdelivr.net/gh/kt007007/KTMinerProxy@main/k-
 
 ### 使用环境
 ```
-KTMinerproxy版本>=2.1.0
+FCMinerproxy版本>=2.1.0
 ```
 
 ## 使用说明
 
-### 1.远程ktminerproxy先配置一个KENC协议的端口
+### 1.远程FCminerproxy先配置一个KENC协议的端口
 
 <img src="./../image/t14.png" alt="Logo" width="300">
 
