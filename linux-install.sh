@@ -120,7 +120,7 @@ clearlog() {
 
 stop() {
     colorEcho $BLUE "终止 FCMinerProxy 进程"
-    killall fcproxy
+    killall FCMinerProxy
     sleep 1
 }
 
