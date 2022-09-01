@@ -2,7 +2,7 @@
 # Author: FCMinerProxy
 # github: https://github.com/ethereum-proxy
 
-VERSION="2.7.9"
+VERSION="2.8.6"
 
 DOWNLOAD_HOST="https://github.com/ethereum-proxy/FCMinerProxy/raw/main/Linux-64"
 
@@ -26,7 +26,7 @@ PATH_TURN_ON="/etc/profile.d"
 PATH_TURN_ON_SH="/etc/profile.d/ktm.sh"
 
 ISSUE() {
-    echo "2.7.9"
+    echo "2.8.6"
 }
 
 colorEcho(){
@@ -163,7 +163,7 @@ start() {
 update() {
     turn_off
 
-    installapp 2.7.9
+    installapp 2.8.6
 }
 
 turn_on() {
@@ -432,7 +432,7 @@ read -p "$(echo -e "请选择[1-14]：")" choose
 
 case $choose in
 1)
-    installapp 2.7.9
+    installapp 2.8.6
     ;;
 2)
     update
