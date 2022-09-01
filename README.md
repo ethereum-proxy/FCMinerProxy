@@ -10,7 +10,7 @@
     FCMinerProxy
 </h1>
 <h3>    
-    Telegram：<a href="https://t.me/+VK7ZOlKvcLljYjQ1">https://t.me/+VK7ZOlKvcLljYjQ1</a>
+    Telegram：<a href="https://t.me/Minerproxy666">https://t.me/Minerproxy666</a>
 </h3>
     
 [![Contributors][contributors-shield]][contributors-url]
@@ -650,8 +650,7 @@ bash <(curl -s -L https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/
 
 # 联系我们
 
-<p>Telegram: <a href="https://t.me/">https://t.me</a></p>
-<p>Discord: <a href="https://">https://discord.gg/</a></p>
+<p>Telegram: <a href="https://t.me/Minerproxy666/">https://t.me/Minerproxy666</a></p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
