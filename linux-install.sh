@@ -255,7 +255,7 @@ installapp() {
 
     checkProcess "FCMinerProxy"
     if [ $? -eq 1 ]; then
-        colorEcho ${RED} "发现正在运行的KTMinerProxy, 需要停止才可继续安装。"
+        colorEcho ${RED} "发现正在运行的FCMinerProxy, 需要停止才可继续安装。"
         colorEcho ${YELLOW} "输入1停止正在运行的FCMinerProxy并且继续安装, 输入2取消安装。"
 
         read -p "$(echo -e "请选择[1-2]：")" choose
