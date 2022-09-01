@@ -26,6 +26,7 @@ PATH_TURN_ON="/etc/profile.d"
 PATH_TURN_ON_SH="/etc/profile.d/ktm.sh"
 
 ISSUE() {
+    echo "2.7.9"
     echo "2.8.6"
 }
 
