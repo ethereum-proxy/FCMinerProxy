@@ -199,9 +199,9 @@ bash <(curl -s -L https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/ckb.png" alt="Logo" width="20" height="20"> CKB
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/Beam.png" alt="Logo" width="20" height="20"> BEAM
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/alph.png" alt="Logo" width="20" height="20"> ALPH
-- - DCR
-- FLUX
-- NEOX
+- <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/drc.png" alt="Logo" width="20" height="20"> DCR
+- <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/flux.png" alt="Logo" width="20" height="20"> FLUX
+- <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/neox.png" alt="Logo" width="20" height="20"> NEOX
 - ...
 
 
