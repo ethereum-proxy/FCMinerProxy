@@ -190,7 +190,6 @@ bash <(curl -s -L https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/eth.png" alt="Logo" width="20" height="20"> ETH
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/etc.png" alt="Logo" width="20" height="20"> ETC
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/ltc.png" alt="Logo" width="20" height="20"> LTC
-- <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/kaspa.png" alt="Logo" width="20" height="20"> KASPA
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/erg.png" alt="Logo" width="20" height="20"> ERG
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/cfx.png" alt="Logo" width="20" height="20"> CFX
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/rvn.png" alt="Logo" width="20" height="20"> RVN
@@ -199,7 +198,8 @@ bash <(curl -s -L https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/ckb.png" alt="Logo" width="20" height="20"> CKB
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/Beam.png" alt="Logo" width="20" height="20"> BEAM
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/alph.png" alt="Logo" width="20" height="20"> ALPH
-- <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/drc.png" alt="Logo" width="20" height="20"> DCR
+- <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/kaspa.png" alt="Logo" width="20" height="20"> KASPA
+- <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/dcr.png" alt="Logo" width="20" height="20"> DCR
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/flux.png" alt="Logo" width="20" height="20"> FLUX
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/neox.png" alt="Logo" width="20" height="20"> NEOX
 - ...
