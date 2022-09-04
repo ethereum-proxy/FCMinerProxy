@@ -199,7 +199,11 @@ bash <(curl -s -L https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/ckb.png" alt="Logo" width="20" height="20"> CKB
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/Beam.png" alt="Logo" width="20" height="20"> BEAM
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/alph.png" alt="Logo" width="20" height="20"> ALPH
+- - DCR
+- FLUX
+- NEOX
 - ...
+
 
 <span id="uplog"></span>
 # 更新日志
