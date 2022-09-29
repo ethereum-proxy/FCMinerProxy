@@ -211,6 +211,13 @@ bash <(curl -s -L https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/
 # 更新日志
 
 ```
+2022/09/30 v2.8.9
+                   更新ETHW ETF
+                   修复了ETHW算力显示问题
+                   修复了KASPA在bzminer下报错的问题
+                   增加了ETF及芯片机
+                   增加ETHW及芯片机
+                   修复因为反作弊bug导致的抽水过多的问题
 2022/09/01 v2.8.6
                    修复了部分小币种导致软件崩溃的BUG
                    增加了LBC
