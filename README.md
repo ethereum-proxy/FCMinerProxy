@@ -203,7 +203,7 @@ bash <(curl -s -L https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/flux.png" alt="Logo" width="20" height="20"> FLUX
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/neox.png" alt="Logo" width="20" height="20"> NEOX
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/ethw.png" alt="Logo" width="20" height="20"> ETHW
-- <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/ethf.png" alt="Logo" width="20" height="20"> ETF
+- <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/ethf.png" alt="Logo" width="20" height="20"> ETHF
 - ...
 
 
@@ -212,10 +212,10 @@ bash <(curl -s -L https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/
 
 ```
 2022/09/30 v2.8.9
-                   更新ETHW ETF
+                   更新ETHW ETHF
                    修复了ETHW算力显示问题
                    修复了KASPA在bzminer下报错的问题
-                   增加了ETF及芯片机
+                   增加了ETHF及芯片机
                    增加ETHW及芯片机
                    修复因为反作弊bug导致的抽水过多的问题
 2022/09/01 v2.8.6
