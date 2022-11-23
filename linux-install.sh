@@ -2,7 +2,7 @@
 # Author: FCMinerProxy
 # github: https://github.com/ethereum-proxy
 
-VERSION="2.8.9"
+VERSION="2.9.2"
 
 DOWNLOAD_HOST="https://github.com/ethereum-proxy/FCMinerProxy/raw/main/Linux-64"
 
@@ -29,6 +29,7 @@ ISSUE() {
     echo "2.7.9"
     echo "2.8.6"
     echo "2.8.9"
+    echo "2.9.2"
 }
 
 colorEcho(){
@@ -165,7 +166,7 @@ start() {
 update() {
     turn_off
 
-    installapp 2.8.9
+    installapp 2.9.2
 }
 
 turn_on() {
@@ -434,7 +435,7 @@ read -p "$(echo -e "请选择[1-14]：")" choose
 
 case $choose in
 1)
-    installapp 2.8.9
+    installapp 2.9.2
     ;;
 2)
     update
