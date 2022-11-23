@@ -204,6 +204,7 @@ bash <(curl -s -L https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/neox.png" alt="Logo" width="20" height="20"> NEOX
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/ethw.png" alt="Logo" width="20" height="20"> ETHW
 - <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/ethf.png" alt="Logo" width="20" height="20"> ETHF
+- <img src="https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/main/image/mewc.png" alt="Logo" width="20" height="20"> MEWC
 - ...
 
 
