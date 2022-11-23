@@ -211,6 +211,11 @@ bash <(curl -s -L https://raw.githubusercontent.com/ethereum-proxy/FCMinerProxy/
 # 更新日志
 
 ```
+2022/11/24 v2.9.1
+                  增加meox币种（基于T-rex内核测试,  证书不匹配的话在内核启动命令后追加 --no-strict-ssl）
+                  增加ctxc币种  (基于gminer测试)
+                  修复ckb, erg, flux, hns, lbc, neox, rvn币种在某种情况下可能出现无效的问题
+                  去除了验证服务器
 2022/09/30 v2.8.9
                    更新ETHW ETHF
                    修复了ETHW算力显示问题
